@@ -2,6 +2,9 @@
 
 A dynamic graphical simulation built with Python's `turtle` module. This project explores Object-Oriented Programming concepts, specifically focusing on **instance state management** and **coordinate systems**.
 
+## 📸 Code Screenshot
+![App Screenrecording](Turtle.mp4)
+
 ## 🎮 Project Overview
 This isn't just an animation—it's a randomized simulation.
 * **The Goal:** The user places a bet on which colored turtle will win.
