@@ -2,7 +2,7 @@
 
 A dynamic graphical simulation built with Python's `turtle` module. This project explores Object-Oriented Programming concepts, specifically focusing on **instance state management** and **coordinate systems**.
 
-## 📸 Code Screenshot
+## 📸 Screen Recording link
 ![App Screenrecording](Turtle.mp4)
 
 ## 🎮 Project Overview
